@@ -1,7 +1,7 @@
 package com.student.management.student.service;
 
-import com.student.management.student.StudentDO;
-import com.student.management.student.StudentEditDTO;
+import com.student.management.student.pojo.StudentDO;
+import com.student.management.student.pojo.StudentEditDTO;
 
 import java.util.List;
 

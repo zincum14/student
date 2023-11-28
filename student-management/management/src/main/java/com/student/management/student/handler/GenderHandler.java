@@ -1,6 +1,6 @@
 package com.student.management.student.handler;
 
-import com.student.management.student.GenderEnum;
+import com.student.management.student.enums.GenderEnum;
 import org.apache.ibatis.type.JdbcType;
 import org.apache.ibatis.type.MappedTypes;
 import org.apache.ibatis.type.TypeHandler;

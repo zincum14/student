@@ -1,7 +1,9 @@
-package com.student.management.student;
+package com.student.management.student.controller;
 
 
 import com.student.management.common.Result;
+import com.student.management.student.pojo.StudentDO;
+import com.student.management.student.pojo.StudentEditDTO;
 import com.student.management.student.service.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

@@ -1,4 +1,4 @@
-package com.student.management.student;
+package com.student.management.student.enums;
 
 public enum GenderEnum {
     Male(1, "Male"),

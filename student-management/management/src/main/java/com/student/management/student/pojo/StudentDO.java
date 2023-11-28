@@ -1,7 +1,8 @@
-package com.student.management.student;
+package com.student.management.student.pojo;
 
 import com.baomidou.mybatisplus.annotation.TableId;
 import com.baomidou.mybatisplus.annotation.TableName;
+import com.student.management.student.enums.GenderEnum;
 import lombok.Data;
 
 @Data

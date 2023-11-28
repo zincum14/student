@@ -1,8 +1,8 @@
 package com.student.management.student.service.impl;
 
 import com.student.management.mapper.StudentMapper;
-import com.student.management.student.StudentDO;
-import com.student.management.student.StudentEditDTO;
+import com.student.management.student.pojo.StudentDO;
+import com.student.management.student.pojo.StudentEditDTO;
 import com.student.management.student.service.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
